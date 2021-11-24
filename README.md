@@ -1,4 +1,4 @@
-# Form a Story
+# Flexbox: To-Do App
 > This project uses CSS Flexbox properties fix a to-do web app.
 
 ## Table of Contents
